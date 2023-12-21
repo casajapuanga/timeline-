@@ -20,4 +20,8 @@ OUR ROADMAP...>>>
 > holding events promoted by artistic groups on web3...>>>
 
 2024 - 2025 - onboarding -
-onboarding the house to web3 and develope a governance sistem for the community connected to web3 tech (DAO)
+> onboarding the house to web3 and develope a community dapp [marketplace of services, products, event tickets and room rental]
+> study and develope a governance model IRL...>>>
+
+2026 - DAO - 
+> governance sistem for the community connected to web3 tech (DAO)
